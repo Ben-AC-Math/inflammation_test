@@ -1,2 +1,8 @@
 
-Project: Some initial data analysis to  identify how inflammation changes with ..
+Project: Some initial data analysis to  identify how inflammation changes with time after surgery. 
+
+People: 
+Jane is a Data Scientisit
+Samit is a Statistician 
+
+Roles within the project need to be determined
